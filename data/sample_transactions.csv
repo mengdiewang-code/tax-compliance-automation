@@ -1,0 +1,401 @@
+transaction_id,timestamp,vendor,category,amount,currency,country,method,description,vat_claimed,invoice_id
+1,2024-04-19T20:00:00,TaxPrep LLC,professional_service,614.9,USD,NL,ach,Consulting retainer - TaxPrep LLC,43.04,INV-00001
+2,2024-08-24T21:00:00,Zen Marketing,marketing,248.51,USD,SG,cash,Campaign spend - Zen Marketing,17.4,INV-00002
+3,2024-03-22T19:00:00,TaxPrep LLC,professional_service,203.41,USD,CA,cash,Consulting retainer - TaxPrep LLC,14.24,INV-00003
+4,2024-06-20T10:00:00,City Diner,meals,356.77,USD,CA,wire,Team lunch - City Diner,0.0,INV-00004
+5,2024-03-30T19:00:00,Cloud Infra,cloud,385.0,USD,SG,wire,Compute instance charges - Cloud Infra,26.95,INV-00005
+6,2024-09-02T15:00:00,Cloud Infra,cloud,187.73,USD,NL,wire,Compute instance charges - Cloud Infra,13.14,INV-00006
+7,2024-06-27T11:00:00,Global Supplies,office,4624.13,USD,DE,cash,Office supplies purchase - Global Supplies,323.69,INV-00007
+8,2024-08-03T09:00:00,Bright Office,office,283.87,USD,CA,cash,Office supplies purchase - Bright Office,19.87,INV-00008
+9,2024-03-31T14:00:00,Acme Software,software,200.0,USD,DE,wire,SaaS subscription - Acme Software,14.0,INV-00009
+10,2024-02-18T18:00:00,Sunshine Hotels,lodging,200.0,USD,IN,card,Hotel stay - Sunshine Hotels,0.0,INV-00010
+11,2024-03-16T10:00:00,Blue Travel,travel,316.02,USD,CA,card,Airfare + baggage - Blue Travel,22.12,INV-00011
+12,2024-02-08T15:00:00,Blue Travel,travel,311.46,USD,SG,wire,Airfare + baggage - Blue Travel,21.8,INV-00012
+13,2024-09-09T18:00:00,TaxPrep LLC,professional_service,304.06,USD,DE,wire,Consulting retainer - TaxPrep LLC,21.28,INV-00013
+14,2024-05-25T09:00:00,Blue Travel,travel,78.75,USD,GB,ach,Airfare + baggage - Blue Travel,5.51,INV-00014
+15,2024-01-07T20:00:00,Bright Office,office,279.8,USD,SG,ach,Office supplies purchase - Bright Office,19.59,INV-00015
+16,2024-06-16T12:00:00,City Diner,meals,355.61,USD,CA,card,Team lunch - City Diner,0.0,INV-00016
+17,2024-03-05T09:00:00,City Diner,meals,688.2,USD,NL,card,Team lunch - City Diner,0.0,INV-00017
+18,2024-05-20T12:00:00,ComplySoft,cloud,150.7,USD,NL,ach,Compute instance charges - ComplySoft,10.55,INV-00018
+19,2024-01-18T09:00:00,Cloud Infra,cloud,406.86,USD,CA,wire,Compute instance charges - Cloud Infra,28.48,INV-00019
+20,2024-02-05T10:00:00,Quick Transports,logistics,366.69,USD,GB,card,Freight shipment fee - Quick Transports,25.67,INV-00020
+21,2024-01-16T08:00:00,City Diner,meals,640.89,USD,US,card,Team lunch - City Diner,0.0,INV-00021
+22,2024-03-14T15:00:00,Zen Marketing,marketing,446.69,USD,GB,card,Campaign spend - Zen Marketing,31.27,INV-00022
+23,2024-07-04T18:00:00,Blue Travel,travel,205.84,USD,US,card,Airfare + baggage - Blue Travel,14.41,INV-00023
+24,2024-04-28T19:00:00,Quick Transports,logistics,254.77,USD,GB,wire,Freight shipment fee - Quick Transports,17.83,INV-00024
+25,2024-06-15T20:00:00,Sunshine Hotels,lodging,495.81,USD,US,ach,Hotel stay - Sunshine Hotels,0.0,INV-00025
+26,2024-04-30T17:00:00,Cloud Infra,cloud,105.79,USD,IN,ach,Compute instance charges - Cloud Infra,7.41,INV-00026
+27,2024-08-15T12:00:00,City Diner,meals,334.86,USD,GB,wire,Team lunch - City Diner,0.0,INV-00027
+28,2024-07-12T18:00:00,Bright Office,office,88.28,USD,US,wire,Office supplies purchase - Bright Office,6.18,INV-00028
+29,2024-01-01T15:00:00,TaxPrep LLC,professional_service,429.97,USD,CA,ach,Consulting retainer - TaxPrep LLC,30.1,INV-00029
+30,2024-07-25T09:00:00,Quick Transports,logistics,257.84,USD,CA,card,Freight shipment fee - Quick Transports,18.05,INV-00030
+31,2024-05-18T19:00:00,Acme Software,software,312.14,USD,GB,wire,SaaS subscription - Acme Software,21.85,INV-00031
+32,2024-04-30T16:00:00,Quick Transports,logistics,435.02,USD,DE,ach,Freight shipment fee - Quick Transports,30.45,INV-00032
+33,2024-07-12T17:00:00,Quick Transports,logistics,281.53,USD,IN,ach,Freight shipment fee - Quick Transports,19.71,INV-00033
+34,2024-08-19T20:00:00,Acme Software,software,238.82,USD,US,ach,SaaS subscription - Acme Software,16.72,INV-00034
+35,2024-02-21T15:00:00,Bright Office,office,872.99,USD,DE,wire,Office supplies purchase - Bright Office,61.11,INV-00035
+36,2024-06-03T19:00:00,Zen Marketing,marketing,618.04,USD,GB,wire,Campaign spend - Zen Marketing,43.26,INV-00036
+37,2024-08-15T17:00:00,ComplySoft,cloud,105.41,USD,SG,cash,Compute instance charges - ComplySoft,7.38,INV-00037
+38,2024-06-03T13:00:00,Bright Office,office,395.19,USD,NL,wire,Office supplies purchase - Bright Office,27.66,INV-00038
+39,2024-08-13T18:00:00,City Diner,meals,311.68,USD,CA,cash,Team lunch - City Diner,0.0,INV-00039
+40,2024-06-17T17:00:00,Bright Office,office,325.62,USD,IN,ach,Office supplies purchase - Bright Office,22.79,INV-00040
+41,2024-02-20T14:00:00,Zen Marketing,marketing,372.21,USD,IN,wire,Campaign spend - Zen Marketing,26.05,INV-00041
+42,2024-06-06T17:00:00,Blue Travel,travel,84.05,USD,US,card,Airfare + baggage - Blue Travel,5.88,INV-00042
+43,2024-09-15T14:00:00,Acme Software,software,287.82,USD,DE,ach,SaaS subscription - Acme Software,20.15,INV-00043
+44,2024-07-01T09:00:00,Zen Marketing,marketing,225.62,USD,CA,cash,Campaign spend - Zen Marketing,15.79,INV-00044
+45,2024-08-20T15:00:00,Quick Transports,logistics,248.82,USD,US,ach,Freight shipment fee - Quick Transports,17.42,INV-00045
+46,2024-09-01T18:00:00,Global Supplies,office,200.0,USD,IN,card,Office supplies purchase - Global Supplies,14.0,INV-00046
+47,2024-03-23T14:00:00,Zen Marketing,marketing,208.82,USD,CA,ach,Campaign spend - Zen Marketing,14.62,INV-00047
+48,2024-09-02T18:00:00,Cloud Infra,cloud,23.9,USD,GB,wire,Compute instance charges - Cloud Infra,1.67,INV-00048
+49,2024-04-12T08:00:00,Cloud Infra,cloud,76.16,USD,US,card,Compute instance charges - Cloud Infra,5.33,INV-00049
+50,2024-06-19T20:00:00,ComplySoft,cloud,312.55,USD,NL,cash,Compute instance charges - ComplySoft,21.88,INV-00050
+51,2024-06-21T18:00:00,Zen Marketing,marketing,172.8,USD,NL,cash,Campaign spend - Zen Marketing,12.1,INV-00051
+52,2024-05-27T20:00:00,TaxPrep LLC,professional_service,96.53,USD,DE,card,Consulting retainer - TaxPrep LLC,6.76,INV-00052
+53,2024-09-03T13:00:00,Skyline Legal,legal,48.19,USD,DE,wire,Legal review fee - Skyline Legal,3.37,INV-00053
+54,2024-08-21T14:00:00,TaxPrep LLC,professional_service,671.61,USD,US,cash,Consulting retainer - TaxPrep LLC,47.01,INV-00054
+55,2024-07-28T13:00:00,City Diner,meals,646.05,USD,GB,wire,Team lunch - City Diner,0.0,INV-00055
+56,2024-06-05T15:00:00,Quick Transports,logistics,140.91,USD,SG,ach,Freight shipment fee - Quick Transports,9.86,INV-00056
+57,2024-09-08T12:00:00,Bright Office,office,146.07,USD,IN,ach,Office supplies purchase - Bright Office,10.22,INV-00057
+58,2024-06-24T09:00:00,Blue Travel,travel,341.82,USD,GB,card,Airfare + baggage - Blue Travel,23.93,INV-00058
+59,2024-03-13T10:00:00,Global Supplies,office,451.51,USD,IN,card,Office supplies purchase - Global Supplies,31.61,INV-00059
+60,2024-08-19T13:00:00,Zen Marketing,marketing,803.02,USD,DE,ach,Campaign spend - Zen Marketing,56.21,INV-00060
+61,2024-04-18T15:00:00,Skyline Legal,legal,117.9,USD,GB,cash,Legal review fee - Skyline Legal,8.25,INV-00061
+62,2024-05-21T13:00:00,Skyline Legal,legal,360.23,USD,SG,card,Legal review fee - Skyline Legal,25.22,INV-00062
+63,2024-06-24T13:00:00,Quick Transports,logistics,536.65,USD,GB,card,Freight shipment fee - Quick Transports,37.57,INV-00063
+64,2024-07-25T13:00:00,Zen Marketing,marketing,511.54,USD,NL,ach,Campaign spend - Zen Marketing,35.81,INV-00064
+65,2024-01-14T20:00:00,Zen Marketing,marketing,155.79,USD,IN,cash,Campaign spend - Zen Marketing,10.9,INV-00065
+66,2024-06-03T15:00:00,Bright Office,office,362.61,USD,DE,ach,Office supplies purchase - Bright Office,25.38,INV-00066
+67,2024-07-13T08:00:00,Global Supplies,office,590.16,USD,US,card,Office supplies purchase - Global Supplies,41.31,INV-00067
+68,2024-03-08T10:00:00,Quick Transports,logistics,200.0,USD,NL,ach,Freight shipment fee - Quick Transports,14.0,INV-00068
+69,2024-04-23T08:00:00,Sunshine Hotels,lodging,658.0,USD,NL,ach,Hotel stay - Sunshine Hotels,0.0,INV-00069
+70,2024-05-10T09:00:00,Cloud Infra,cloud,569.9,USD,CA,cash,Compute instance charges - Cloud Infra,39.89,INV-00070
+71,2024-09-26T20:00:00,Sunshine Hotels,lodging,416.24,USD,GB,wire,Hotel stay - Sunshine Hotels,0.0,INV-00071
+72,2024-08-17T12:00:00,Zen Marketing,marketing,510.3,USD,SG,cash,Campaign spend - Zen Marketing,35.72,INV-00072
+73,2024-05-12T12:00:00,ComplySoft,cloud,417.64,USD,US,cash,Compute instance charges - ComplySoft,29.23,INV-00073
+74,2024-02-29T19:00:00,Skyline Legal,legal,210.18,USD,CA,ach,Legal review fee - Skyline Legal,14.71,INV-00074
+75,2024-04-22T15:00:00,TaxPrep LLC,professional_service,189.31,USD,DE,card,Consulting retainer - TaxPrep LLC,13.25,INV-00075
+76,2024-08-07T14:00:00,City Diner,meals,79.82,USD,US,ach,Team lunch - City Diner,0.0,INV-00076
+77,2024-05-27T19:00:00,Sunshine Hotels,lodging,92.06,USD,NL,wire,Hotel stay - Sunshine Hotels,0.0,INV-00077
+78,2024-06-24T12:00:00,Cloud Infra,cloud,126.65,USD,CA,cash,Compute instance charges - Cloud Infra,8.87,INV-00078
+79,2024-07-18T14:00:00,City Diner,meals,333.93,USD,NL,cash,Team lunch - City Diner,0.0,INV-00079
+80,2024-08-06T17:00:00,Acme Software,software,254.6,USD,DE,ach,SaaS subscription - Acme Software,17.82,INV-00080
+81,2024-06-19T11:00:00,Cloud Infra,cloud,382.89,USD,US,cash,Compute instance charges - Cloud Infra,26.8,INV-00081
+82,2024-06-14T18:00:00,TaxPrep LLC,professional_service,25.96,USD,CA,wire,Consulting retainer - TaxPrep LLC,1.82,INV-00082
+83,2024-07-30T20:00:00,Bright Office,office,393.11,USD,SG,card,Office supplies purchase - Bright Office,27.52,INV-00083
+84,2024-03-02T16:00:00,Zen Marketing,marketing,309.44,USD,IN,wire,Campaign spend - Zen Marketing,21.66,INV-00084
+85,2024-03-09T18:00:00,ComplySoft,cloud,186.72,USD,CA,cash,Compute instance charges - ComplySoft,13.07,INV-00085
+86,2024-02-10T17:00:00,City Diner,meals,194.91,USD,SG,card,Team lunch - City Diner,0.0,INV-00086
+87,2024-08-08T18:00:00,TaxPrep LLC,professional_service,84.14,USD,IN,wire,Consulting retainer - TaxPrep LLC,5.89,INV-00087
+88,2024-05-11T16:00:00,Quick Transports,logistics,592.53,USD,DE,wire,Freight shipment fee - Quick Transports,41.48,INV-00088
+89,2024-05-07T19:00:00,City Diner,meals,100.0,USD,SG,wire,Team lunch - City Diner,0.0,INV-00089
+90,2024-09-06T10:00:00,ComplySoft,cloud,459.92,USD,DE,ach,Compute instance charges - ComplySoft,32.19,INV-00090
+91,2024-01-22T09:00:00,Blue Travel,travel,347.61,USD,CA,ach,Airfare + baggage - Blue Travel,24.33,INV-00091
+92,2024-06-23T21:00:00,Zen Marketing,marketing,266.16,USD,DE,cash,Campaign spend - Zen Marketing,18.63,INV-00092
+93,2024-06-27T08:00:00,Acme Software,software,289.19,USD,IN,ach,SaaS subscription - Acme Software,20.24,INV-00093
+94,2024-01-11T21:00:00,Blue Travel,travel,262.21,USD,US,card,Airfare + baggage - Blue Travel,18.35,INV-00094
+95,2024-08-22T21:00:00,Global Supplies,office,66.15,USD,CA,card,Office supplies purchase - Global Supplies,4.63,INV-00095
+96,2024-08-28T09:00:00,City Diner,meals,195.66,USD,CA,wire,Team lunch - City Diner,0.0,INV-00096
+97,2024-03-06T16:00:00,TaxPrep LLC,professional_service,364.0,USD,US,wire,Consulting retainer - TaxPrep LLC,25.48,INV-00097
+98,2024-06-18T10:00:00,City Diner,meals,697.34,USD,US,cash,Team lunch - City Diner,0.0,INV-00098
+99,2024-09-01T15:00:00,Blue Travel,travel,2911.73,USD,IN,cash,Airfare + baggage - Blue Travel,203.82,INV-00099
+100,2024-02-05T09:00:00,Bright Office,office,4.31,USD,US,cash,Office supplies purchase - Bright Office,0.3,INV-00100
+101,2024-01-11T08:00:00,Zen Marketing,marketing,309.02,USD,IN,cash,Campaign spend - Zen Marketing,21.63,INV-00101
+102,2024-02-22T18:00:00,Skyline Legal,legal,274.27,USD,CA,wire,Legal review fee - Skyline Legal,19.2,INV-00102
+103,2024-07-24T21:00:00,Zen Marketing,marketing,225.78,USD,GB,card,Campaign spend - Zen Marketing,15.8,INV-00103
+104,2024-06-14T13:00:00,Zen Marketing,marketing,410.06,USD,NL,cash,Campaign spend - Zen Marketing,28.7,INV-00104
+105,2024-07-18T08:00:00,Bright Office,office,301.5,USD,DE,ach,Office supplies purchase - Bright Office,21.1,INV-00105
+106,2024-06-18T14:00:00,Zen Marketing,marketing,200.0,USD,CA,cash,Campaign spend - Zen Marketing,14.0,INV-00106
+107,2024-07-25T20:00:00,TaxPrep LLC,professional_service,27.53,USD,GB,wire,Consulting retainer - TaxPrep LLC,1.93,INV-00107
+108,2024-03-16T15:00:00,Quick Transports,logistics,578.36,USD,NL,wire,Freight shipment fee - Quick Transports,40.49,INV-00108
+109,2024-08-21T12:00:00,Bright Office,office,300.43,USD,CA,wire,Office supplies purchase - Bright Office,21.03,INV-00109
+110,2024-01-15T21:00:00,ComplySoft,cloud,400.0,USD,US,cash,Compute instance charges - ComplySoft,28.0,INV-00110
+111,2024-05-08T21:00:00,Zen Marketing,marketing,303.77,USD,US,wire,Campaign spend - Zen Marketing,21.26,INV-00111
+112,2024-02-22T16:00:00,Acme Software,software,42.84,USD,SG,cash,SaaS subscription - Acme Software,3.0,INV-00112
+113,2024-03-04T16:00:00,Zen Marketing,marketing,528.75,USD,DE,ach,Campaign spend - Zen Marketing,37.01,INV-00113
+114,2024-06-06T19:00:00,TaxPrep LLC,professional_service,3871.04,USD,IN,wire,Consulting retainer - TaxPrep LLC,270.97,INV-00114
+115,2024-04-06T15:00:00,Zen Marketing,marketing,322.38,USD,US,wire,Campaign spend - Zen Marketing,22.57,INV-00115
+116,2024-04-18T13:00:00,Quick Transports,logistics,426.62,USD,DE,wire,Freight shipment fee - Quick Transports,29.86,INV-00116
+117,2024-03-04T13:00:00,Acme Software,software,555.86,USD,DE,wire,SaaS subscription - Acme Software,38.91,INV-00117
+118,2024-09-19T16:00:00,Zen Marketing,marketing,28.84,USD,US,ach,Campaign spend - Zen Marketing,2.02,INV-00118
+119,2024-08-01T13:00:00,City Diner,meals,535.57,USD,US,cash,Team lunch - City Diner,0.0,INV-00119
+120,2024-01-16T15:00:00,Sunshine Hotels,lodging,227.87,USD,SG,wire,Hotel stay - Sunshine Hotels,0.0,INV-00120
+121,2024-03-11T08:00:00,Zen Marketing,marketing,211.23,USD,GB,cash,Campaign spend - Zen Marketing,14.79,INV-00121
+122,2024-09-18T09:00:00,Zen Marketing,marketing,366.23,USD,SG,ach,Campaign spend - Zen Marketing,25.64,INV-00122
+123,2024-04-10T19:00:00,City Diner,meals,214.44,USD,NL,wire,Team lunch - City Diner,0.0,INV-00123
+124,2024-02-17T15:00:00,Skyline Legal,legal,81.93,USD,DE,cash,Legal review fee - Skyline Legal,5.74,INV-00124
+125,2024-06-01T13:00:00,TaxPrep LLC,professional_service,286.52,USD,IN,cash,Consulting retainer - TaxPrep LLC,20.06,INV-00125
+126,2024-03-16T12:00:00,Zen Marketing,marketing,321.37,USD,NL,ach,Campaign spend - Zen Marketing,22.5,INV-00126
+127,2024-04-18T09:00:00,Skyline Legal,legal,129.47,USD,SG,wire,Legal review fee - Skyline Legal,9.06,INV-00127
+128,2024-04-04T09:00:00,Acme Software,software,617.35,USD,NL,ach,SaaS subscription - Acme Software,43.21,INV-00128
+129,2024-01-08T16:00:00,Acme Software,software,498.32,USD,NL,cash,SaaS subscription - Acme Software,34.88,INV-00129
+130,2024-09-13T09:00:00,Blue Travel,travel,253.86,USD,NL,ach,Airfare + baggage - Blue Travel,17.77,INV-00130
+131,2024-09-18T14:00:00,TaxPrep LLC,professional_service,311.99,USD,NL,ach,Consulting retainer - TaxPrep LLC,21.84,INV-00131
+132,2024-02-19T19:00:00,ComplySoft,cloud,328.11,USD,NL,wire,Compute instance charges - ComplySoft,22.97,INV-00132
+133,2024-08-21T13:00:00,TaxPrep LLC,professional_service,0.0,USD,GB,ach,Consulting retainer - TaxPrep LLC,0.0,INV-00133
+134,2024-04-22T12:00:00,ComplySoft,cloud,300.0,USD,DE,cash,Compute instance charges - ComplySoft,21.0,INV-00134
+135,2024-03-12T16:00:00,Zen Marketing,marketing,200.0,USD,CA,ach,Campaign spend - Zen Marketing,14.0,INV-00135
+136,2024-01-04T19:00:00,City Diner,meals,200.0,USD,SG,ach,Team lunch - City Diner,0.0,INV-00136
+137,2024-01-02T18:00:00,Quick Transports,logistics,502.69,USD,NL,cash,Freight shipment fee - Quick Transports,35.19,INV-00137
+138,2024-09-15T16:00:00,Blue Travel,travel,204.82,USD,IN,ach,Airfare + baggage - Blue Travel,14.34,INV-00138
+139,2024-01-15T16:00:00,Quick Transports,logistics,1307.13,USD,CA,wire,Freight shipment fee - Quick Transports,91.5,INV-00139
+140,2024-04-11T10:00:00,Bright Office,office,244.66,USD,US,card,Office supplies purchase - Bright Office,17.13,INV-00140
+141,2024-09-25T13:00:00,Skyline Legal,legal,426.82,USD,GB,wire,Legal review fee - Skyline Legal,29.88,INV-00141
+142,2024-03-22T11:00:00,Zen Marketing,marketing,338.71,USD,US,cash,Campaign spend - Zen Marketing,23.71,INV-00142
+143,2024-08-29T13:00:00,Bright Office,office,512.38,USD,US,wire,Office supplies purchase - Bright Office,35.87,INV-00143
+144,2024-01-07T15:00:00,Blue Travel,travel,100.0,USD,SG,wire,Airfare + baggage - Blue Travel,7.0,INV-00144
+145,2024-04-22T21:00:00,Acme Software,software,652.21,USD,NL,card,SaaS subscription - Acme Software,45.65,INV-00145
+146,2024-05-20T18:00:00,Sunshine Hotels,lodging,340.25,USD,IN,ach,Hotel stay - Sunshine Hotels,0.0,INV-00146
+147,2024-09-20T14:00:00,Acme Software,software,645.06,USD,IN,card,SaaS subscription - Acme Software,45.15,INV-00147
+148,2024-04-19T11:00:00,Acme Software,software,200.18,USD,CA,ach,SaaS subscription - Acme Software,14.01,INV-00148
+149,2024-01-02T10:00:00,Acme Software,software,400.2,USD,DE,cash,SaaS subscription - Acme Software,28.01,INV-00149
+150,2024-09-26T17:00:00,Zen Marketing,marketing,342.43,USD,IN,ach,Campaign spend - Zen Marketing,23.97,INV-00150
+151,2024-07-30T15:00:00,Acme Software,software,495.38,USD,GB,card,SaaS subscription - Acme Software,34.68,INV-00151
+152,2024-03-25T08:00:00,Acme Software,software,29.1,USD,CA,cash,SaaS subscription - Acme Software,2.04,INV-00152
+153,2024-05-29T19:00:00,Skyline Legal,legal,372.5,USD,GB,cash,Legal review fee - Skyline Legal,26.08,INV-00153
+154,2024-03-17T20:00:00,Quick Transports,logistics,36.62,USD,DE,wire,Freight shipment fee - Quick Transports,2.56,INV-00154
+155,2024-05-06T09:00:00,Sunshine Hotels,lodging,486.95,USD,SG,card,Hotel stay - Sunshine Hotels,0.0,INV-00155
+156,2024-02-20T11:00:00,ComplySoft,cloud,219.79,USD,US,card,Compute instance charges - ComplySoft,15.39,INV-00156
+157,2024-07-10T10:00:00,Bright Office,office,500.0,USD,US,cash,Office supplies purchase - Bright Office,35.0,INV-00157
+158,2024-01-05T10:00:00,Zen Marketing,marketing,32.15,USD,IN,ach,Campaign spend - Zen Marketing,2.25,INV-00158
+159,2024-05-04T15:00:00,Skyline Legal,legal,193.26,USD,DE,ach,Legal review fee - Skyline Legal,13.53,INV-00159
+160,2024-01-14T18:00:00,ComplySoft,cloud,131.45,USD,IN,card,Compute instance charges - ComplySoft,9.2,INV-00160
+161,2024-04-19T18:00:00,Acme Software,software,277.25,USD,SG,card,SaaS subscription - Acme Software,19.41,INV-00161
+162,2024-04-20T12:00:00,Blue Travel,travel,400.0,USD,DE,cash,Airfare + baggage - Blue Travel,28.0,INV-00162
+163,2024-01-29T13:00:00,Acme Software,software,299.26,USD,NL,card,SaaS subscription - Acme Software,20.95,INV-00163
+164,2024-05-14T11:00:00,Blue Travel,travel,268.67,USD,CA,card,Airfare + baggage - Blue Travel,18.81,INV-00164
+165,2024-01-17T21:00:00,Global Supplies,office,424.72,USD,DE,ach,Office supplies purchase - Global Supplies,29.73,INV-00165
+166,2024-07-28T19:00:00,City Diner,meals,424.96,USD,IN,cash,Team lunch - City Diner,0.0,INV-00166
+167,2024-09-15T10:00:00,Zen Marketing,marketing,490.82,USD,DE,ach,Campaign spend - Zen Marketing,34.36,INV-00167
+168,2024-08-15T16:00:00,Bright Office,office,4593.21,USD,GB,wire,Office supplies purchase - Bright Office,321.52,INV-00168
+169,2024-06-04T12:00:00,TaxPrep LLC,professional_service,517.49,USD,US,wire,Consulting retainer - TaxPrep LLC,36.22,INV-00169
+170,2024-02-15T19:00:00,Skyline Legal,legal,229.49,USD,CA,wire,Legal review fee - Skyline Legal,16.06,INV-00170
+171,2024-04-26T14:00:00,Blue Travel,travel,189.07,USD,GB,card,Airfare + baggage - Blue Travel,13.24,INV-00171
+172,2024-01-21T17:00:00,Bright Office,office,412.41,USD,CA,card,Office supplies purchase - Bright Office,28.87,INV-00172
+173,2024-03-03T13:00:00,ComplySoft,cloud,16.61,USD,SG,card,Compute instance charges - ComplySoft,1.16,INV-00173
+174,2024-08-10T08:00:00,City Diner,meals,12.39,USD,US,ach,Team lunch - City Diner,0.0,INV-00174
+175,2024-03-16T16:00:00,Zen Marketing,marketing,92.39,USD,US,ach,Campaign spend - Zen Marketing,6.47,INV-00175
+176,2024-03-10T16:00:00,TaxPrep LLC,professional_service,0.0,USD,CA,cash,Consulting retainer - TaxPrep LLC,0.0,INV-00176
+177,2024-03-25T21:00:00,Blue Travel,travel,434.86,USD,IN,card,Airfare + baggage - Blue Travel,30.44,INV-00177
+178,2024-03-10T19:00:00,Global Supplies,office,420.5,USD,DE,card,Office supplies purchase - Global Supplies,29.44,INV-00178
+179,2024-05-20T18:00:00,Acme Software,software,171.14,USD,DE,ach,SaaS subscription - Acme Software,11.98,INV-00179
+180,2024-04-07T20:00:00,Bright Office,office,418.07,USD,CA,wire,Office supplies purchase - Bright Office,29.26,INV-00180
+181,2024-04-28T17:00:00,ComplySoft,cloud,225.21,USD,IN,wire,Compute instance charges - ComplySoft,15.77,INV-00181
+182,2024-08-13T11:00:00,Quick Transports,logistics,275.85,USD,GB,wire,Freight shipment fee - Quick Transports,19.31,INV-00182
+183,2024-04-20T12:00:00,Global Supplies,office,1800.0,USD,GB,ach,Office supplies purchase - Global Supplies,126.0,INV-00183
+184,2024-03-08T12:00:00,Skyline Legal,legal,406.31,USD,SG,wire,Legal review fee - Skyline Legal,28.44,INV-00184
+185,2024-04-18T21:00:00,TaxPrep LLC,professional_service,381.79,USD,IN,wire,Consulting retainer - TaxPrep LLC,26.73,INV-00185
+186,2024-03-24T20:00:00,Blue Travel,travel,255.69,USD,GB,cash,Airfare + baggage - Blue Travel,17.9,INV-00186
+187,2024-02-16T08:00:00,Quick Transports,logistics,556.75,USD,SG,wire,Freight shipment fee - Quick Transports,38.97,INV-00187
+188,2024-01-08T10:00:00,Acme Software,software,151.96,USD,DE,cash,SaaS subscription - Acme Software,10.64,INV-00188
+189,2024-07-08T11:00:00,Global Supplies,office,164.74,USD,GB,card,Office supplies purchase - Global Supplies,11.53,INV-00189
+190,2024-02-21T08:00:00,TaxPrep LLC,professional_service,70.94,USD,DE,cash,Consulting retainer - TaxPrep LLC,4.97,INV-00190
+191,2024-02-27T19:00:00,Cloud Infra,cloud,131.15,USD,GB,wire,Compute instance charges - Cloud Infra,9.18,INV-00191
+192,2024-08-04T14:00:00,Zen Marketing,marketing,560.91,USD,SG,ach,Campaign spend - Zen Marketing,39.26,INV-00192
+193,2024-09-01T18:00:00,Quick Transports,logistics,171.16,USD,GB,card,Freight shipment fee - Quick Transports,11.98,INV-00193
+194,2024-04-09T20:00:00,Quick Transports,logistics,82.94,USD,US,cash,Freight shipment fee - Quick Transports,5.81,INV-00194
+195,2024-07-05T18:00:00,ComplySoft,cloud,390.03,USD,IN,card,Compute instance charges - ComplySoft,27.3,INV-00195
+196,2024-07-10T11:00:00,Acme Software,software,76.01,USD,CA,wire,SaaS subscription - Acme Software,5.32,INV-00196
+197,2024-07-27T08:00:00,Skyline Legal,legal,226.35,USD,CA,wire,Legal review fee - Skyline Legal,15.84,INV-00197
+198,2024-04-02T12:00:00,Sunshine Hotels,lodging,398.38,USD,SG,ach,Hotel stay - Sunshine Hotels,0.0,INV-00198
+199,2024-02-17T16:00:00,City Diner,meals,102.38,USD,SG,card,Team lunch - City Diner,0.0,INV-00199
+200,2024-04-23T18:00:00,Bright Office,office,586.39,USD,US,cash,Office supplies purchase - Bright Office,41.05,INV-00200
+201,2024-02-28T19:00:00,Blue Travel,travel,455.68,USD,DE,ach,Airfare + baggage - Blue Travel,31.9,INV-00201
+202,2024-02-09T11:00:00,Cloud Infra,cloud,273.47,USD,IN,wire,Compute instance charges - Cloud Infra,19.14,INV-00202
+203,2024-05-24T19:00:00,Global Supplies,office,369.04,USD,SG,card,Office supplies purchase - Global Supplies,25.83,INV-00203
+204,2024-06-12T16:00:00,Quick Transports,logistics,266.81,USD,US,card,Freight shipment fee - Quick Transports,18.68,INV-00204
+205,2024-01-05T18:00:00,Blue Travel,travel,487.24,USD,US,wire,Airfare + baggage - Blue Travel,34.11,INV-00205
+206,2024-06-26T16:00:00,Bright Office,office,4316.15,USD,SG,cash,Office supplies purchase - Bright Office,302.13,INV-00206
+207,2024-06-13T18:00:00,Global Supplies,office,246.32,USD,US,ach,Office supplies purchase - Global Supplies,17.24,INV-00207
+208,2024-02-20T13:00:00,Cloud Infra,cloud,225.47,USD,SG,ach,Compute instance charges - Cloud Infra,15.78,INV-00208
+209,2024-06-22T19:00:00,Bright Office,office,186.48,USD,GB,wire,Office supplies purchase - Bright Office,13.05,INV-00209
+210,2024-03-12T16:00:00,TaxPrep LLC,professional_service,485.31,USD,SG,wire,Consulting retainer - TaxPrep LLC,33.97,INV-00210
+211,2024-06-22T09:00:00,Bright Office,office,311.69,USD,SG,cash,Office supplies purchase - Bright Office,21.82,INV-00211
+212,2024-02-18T19:00:00,Acme Software,software,75.94,USD,CA,ach,SaaS subscription - Acme Software,5.32,INV-00212
+213,2024-07-16T15:00:00,City Diner,meals,509.23,USD,US,wire,Team lunch - City Diner,0.0,INV-00213
+214,2024-04-29T14:00:00,Bright Office,office,11.2,USD,NL,ach,Office supplies purchase - Bright Office,0.78,INV-00214
+215,2024-01-19T11:00:00,Quick Transports,logistics,3144.51,USD,SG,card,Freight shipment fee - Quick Transports,220.12,INV-00215
+216,2024-07-05T11:00:00,Skyline Legal,legal,254.41,USD,IN,cash,Legal review fee - Skyline Legal,17.81,INV-00216
+217,2024-08-13T21:00:00,ComplySoft,cloud,64.73,USD,CA,card,Compute instance charges - ComplySoft,4.53,INV-00217
+218,2024-01-22T12:00:00,ComplySoft,cloud,478.48,USD,DE,ach,Compute instance charges - ComplySoft,33.49,INV-00218
+219,2024-03-13T08:00:00,Quick Transports,logistics,642.23,USD,NL,card,Freight shipment fee - Quick Transports,44.96,INV-00219
+220,2024-03-03T15:00:00,Zen Marketing,marketing,360.94,USD,US,card,Campaign spend - Zen Marketing,25.27,INV-00220
+221,2024-09-12T16:00:00,Quick Transports,logistics,213.42,USD,DE,ach,Freight shipment fee - Quick Transports,14.94,INV-00221
+222,2024-06-07T13:00:00,Bright Office,office,277.51,USD,CA,wire,Office supplies purchase - Bright Office,19.43,INV-00222
+223,2024-07-24T08:00:00,ComplySoft,cloud,100.0,USD,NL,wire,Compute instance charges - ComplySoft,7.0,INV-00223
+224,2024-08-24T14:00:00,City Diner,meals,116.71,USD,NL,ach,Team lunch - City Diner,0.0,INV-00224
+225,2024-02-19T17:00:00,City Diner,meals,4699.62,USD,IN,card,Team lunch - City Diner,0.0,INV-00225
+226,2024-07-06T17:00:00,Acme Software,software,401.41,USD,DE,wire,SaaS subscription - Acme Software,28.1,INV-00226
+227,2024-09-17T15:00:00,Acme Software,software,381.85,USD,NL,ach,SaaS subscription - Acme Software,26.73,INV-00227
+228,2024-06-21T13:00:00,Zen Marketing,marketing,36.91,USD,CA,cash,Campaign spend - Zen Marketing,2.58,INV-00228
+229,2024-06-23T18:00:00,Bright Office,office,709.01,USD,SG,wire,Office supplies purchase - Bright Office,49.63,INV-00229
+230,2024-03-11T17:00:00,Zen Marketing,marketing,690.57,USD,NL,ach,Campaign spend - Zen Marketing,48.34,INV-00230
+231,2024-06-18T17:00:00,Quick Transports,logistics,378.59,USD,DE,ach,Freight shipment fee - Quick Transports,26.5,INV-00231
+232,2024-05-18T14:00:00,Quick Transports,logistics,425.16,USD,DE,ach,Freight shipment fee - Quick Transports,29.76,INV-00232
+233,2024-08-08T13:00:00,Zen Marketing,marketing,378.33,USD,NL,card,Campaign spend - Zen Marketing,26.48,INV-00233
+234,2024-04-17T14:00:00,Bright Office,office,247.93,USD,SG,card,Office supplies purchase - Bright Office,17.36,INV-00234
+235,2024-01-06T12:00:00,City Diner,meals,239.16,USD,DE,card,Team lunch - City Diner,0.0,INV-00235
+236,2024-04-16T09:00:00,Zen Marketing,marketing,215.55,USD,US,cash,Campaign spend - Zen Marketing,15.09,INV-00236
+237,2024-04-04T12:00:00,Bright Office,office,336.97,USD,DE,card,Office supplies purchase - Bright Office,23.59,INV-00237
+238,2024-02-25T14:00:00,ComplySoft,cloud,52.85,USD,NL,ach,Compute instance charges - ComplySoft,3.7,INV-00238
+239,2024-02-01T12:00:00,TaxPrep LLC,professional_service,350.36,USD,NL,wire,Consulting retainer - TaxPrep LLC,24.53,INV-00239
+240,2024-09-09T16:00:00,Acme Software,software,0.43,USD,CA,wire,SaaS subscription - Acme Software,0.03,INV-00240
+241,2024-06-17T16:00:00,Sunshine Hotels,lodging,258.48,USD,IN,wire,Hotel stay - Sunshine Hotels,0.0,INV-00241
+242,2024-07-17T15:00:00,Bright Office,office,449.05,USD,US,card,Office supplies purchase - Bright Office,31.43,INV-00242
+243,2024-08-20T12:00:00,ComplySoft,cloud,50.29,USD,SG,ach,Compute instance charges - ComplySoft,3.52,INV-00243
+244,2024-04-20T13:00:00,Quick Transports,logistics,4177.84,USD,DE,ach,Freight shipment fee - Quick Transports,292.45,INV-00244
+245,2024-05-08T17:00:00,Bright Office,office,443.79,USD,CA,card,Office supplies purchase - Bright Office,31.07,INV-00245
+246,2024-07-25T09:00:00,Sunshine Hotels,lodging,53.86,USD,GB,card,Hotel stay - Sunshine Hotels,0.0,INV-00246
+247,2024-08-08T08:00:00,Blue Travel,travel,428.58,USD,US,cash,Airfare + baggage - Blue Travel,30.0,INV-00247
+248,2024-02-25T12:00:00,Global Supplies,office,370.43,USD,DE,card,Office supplies purchase - Global Supplies,25.93,INV-00248
+249,2024-02-02T15:00:00,ComplySoft,cloud,433.83,USD,CA,card,Compute instance charges - ComplySoft,30.37,INV-00249
+250,2024-03-20T17:00:00,Blue Travel,travel,3126.31,USD,NL,cash,Airfare + baggage - Blue Travel,218.84,INV-00250
+251,2024-03-28T19:00:00,Quick Transports,logistics,357.31,USD,GB,ach,Freight shipment fee - Quick Transports,25.01,INV-00251
+252,2024-01-04T19:00:00,TaxPrep LLC,professional_service,506.58,USD,CA,card,Consulting retainer - TaxPrep LLC,35.46,INV-00252
+253,2024-05-22T10:00:00,Skyline Legal,legal,310.61,USD,GB,card,Legal review fee - Skyline Legal,21.74,INV-00253
+254,2024-02-27T11:00:00,Bright Office,office,414.69,USD,CA,card,Office supplies purchase - Bright Office,29.03,INV-00254
+255,2024-02-07T13:00:00,Blue Travel,travel,550.29,USD,SG,cash,Airfare + baggage - Blue Travel,38.52,INV-00255
+256,2024-04-11T08:00:00,Sunshine Hotels,lodging,239.55,USD,IN,ach,Hotel stay - Sunshine Hotels,0.0,INV-00256
+257,2024-03-23T09:00:00,Global Supplies,office,434.98,USD,CA,wire,Office supplies purchase - Global Supplies,30.45,INV-00257
+258,2024-06-09T10:00:00,Sunshine Hotels,lodging,22.81,USD,NL,card,Hotel stay - Sunshine Hotels,0.0,INV-00258
+259,2024-08-31T14:00:00,City Diner,meals,523.86,USD,CA,card,Team lunch - City Diner,0.0,INV-00259
+260,2024-02-29T11:00:00,ComplySoft,cloud,150.85,USD,CA,card,Compute instance charges - ComplySoft,10.56,INV-00260
+261,2024-09-24T17:00:00,Cloud Infra,cloud,344.77,USD,GB,card,Compute instance charges - Cloud Infra,24.13,INV-00261
+262,2024-02-02T17:00:00,City Diner,meals,214.58,USD,NL,ach,Team lunch - City Diner,0.0,INV-00262
+263,2024-05-17T12:00:00,Sunshine Hotels,lodging,1.84,USD,CA,ach,Hotel stay - Sunshine Hotels,0.0,INV-00263
+264,2024-08-16T12:00:00,Zen Marketing,marketing,558.29,USD,CA,ach,Campaign spend - Zen Marketing,39.08,INV-00264
+265,2024-07-28T21:00:00,Global Supplies,office,61.36,USD,GB,wire,Office supplies purchase - Global Supplies,4.29,INV-00265
+266,2024-03-29T21:00:00,Sunshine Hotels,lodging,95.55,USD,CA,ach,Hotel stay - Sunshine Hotels,0.0,INV-00266
+267,2024-03-24T16:00:00,Global Supplies,office,150.95,USD,DE,ach,Office supplies purchase - Global Supplies,10.57,INV-00267
+268,2024-01-13T14:00:00,Sunshine Hotels,lodging,466.03,USD,US,wire,Hotel stay - Sunshine Hotels,0.0,INV-00268
+269,2024-05-28T21:00:00,City Diner,meals,400.0,USD,SG,wire,Team lunch - City Diner,0.0,INV-00269
+270,2024-02-20T12:00:00,Quick Transports,logistics,335.38,USD,US,card,Freight shipment fee - Quick Transports,23.48,INV-00270
+271,2024-09-11T14:00:00,Acme Software,software,371.58,USD,CA,card,SaaS subscription - Acme Software,26.01,INV-00271
+272,2024-06-25T20:00:00,Cloud Infra,cloud,425.74,USD,NL,card,Compute instance charges - Cloud Infra,29.8,INV-00272
+273,2024-08-15T13:00:00,City Diner,meals,229.62,USD,DE,ach,Team lunch - City Diner,0.0,INV-00273
+274,2024-06-30T17:00:00,Quick Transports,logistics,2371.6,USD,SG,card,Freight shipment fee - Quick Transports,166.01,INV-00274
+275,2024-02-18T19:00:00,Global Supplies,office,179.51,USD,CA,cash,Office supplies purchase - Global Supplies,12.57,INV-00275
+276,2024-05-19T15:00:00,Cloud Infra,cloud,234.63,USD,DE,wire,Compute instance charges - Cloud Infra,16.42,INV-00276
+277,2024-02-24T13:00:00,City Diner,meals,247.13,USD,DE,ach,Team lunch - City Diner,0.0,INV-00277
+278,2024-01-15T14:00:00,Quick Transports,logistics,478.28,USD,CA,ach,Freight shipment fee - Quick Transports,33.48,INV-00278
+279,2024-02-10T18:00:00,Quick Transports,logistics,388.36,USD,GB,wire,Freight shipment fee - Quick Transports,27.19,INV-00279
+280,2024-08-01T11:00:00,Sunshine Hotels,lodging,500.0,USD,DE,cash,Hotel stay - Sunshine Hotels,0.0,INV-00280
+281,2024-05-14T16:00:00,Quick Transports,logistics,222.41,USD,IN,wire,Freight shipment fee - Quick Transports,15.57,INV-00281
+282,2024-07-16T19:00:00,Global Supplies,office,228.79,USD,CA,ach,Office supplies purchase - Global Supplies,16.02,INV-00282
+283,2024-06-23T16:00:00,Quick Transports,logistics,1580.78,USD,US,cash,Freight shipment fee - Quick Transports,110.65,INV-00283
+284,2024-08-10T09:00:00,ComplySoft,cloud,229.52,USD,NL,wire,Compute instance charges - ComplySoft,16.07,INV-00284
+285,2024-07-29T20:00:00,Quick Transports,logistics,311.12,USD,IN,wire,Freight shipment fee - Quick Transports,21.78,INV-00285
+286,2024-02-17T19:00:00,Quick Transports,logistics,500.0,USD,SG,card,Freight shipment fee - Quick Transports,35.0,INV-00286
+287,2024-02-23T11:00:00,Global Supplies,office,410.49,USD,IN,wire,Office supplies purchase - Global Supplies,28.73,INV-00287
+288,2024-05-10T11:00:00,Cloud Infra,cloud,200.0,USD,SG,cash,Compute instance charges - Cloud Infra,14.0,INV-00288
+289,2024-03-10T13:00:00,TaxPrep LLC,professional_service,140.19,USD,CA,wire,Consulting retainer - TaxPrep LLC,9.81,INV-00289
+290,2024-06-09T18:00:00,Bright Office,office,406.26,USD,IN,card,Office supplies purchase - Bright Office,28.44,INV-00290
+291,2024-05-10T21:00:00,Global Supplies,office,336.5,USD,GB,card,Office supplies purchase - Global Supplies,23.56,INV-00291
+292,2024-06-03T21:00:00,Global Supplies,office,409.19,USD,IN,wire,Office supplies purchase - Global Supplies,28.64,INV-00292
+293,2024-07-10T21:00:00,TaxPrep LLC,professional_service,59.61,USD,DE,card,Consulting retainer - TaxPrep LLC,4.17,INV-00293
+294,2024-01-14T16:00:00,Zen Marketing,marketing,351.17,USD,IN,wire,Campaign spend - Zen Marketing,24.58,INV-00294
+295,2024-02-17T09:00:00,Acme Software,software,339.57,USD,NL,ach,SaaS subscription - Acme Software,23.77,INV-00295
+296,2024-07-26T20:00:00,City Diner,meals,252.37,USD,US,card,Team lunch - City Diner,0.0,INV-00296
+297,2024-02-24T21:00:00,TaxPrep LLC,professional_service,388.3,USD,SG,card,Consulting retainer - TaxPrep LLC,27.18,INV-00297
+298,2024-06-21T16:00:00,Global Supplies,office,2786.81,USD,CA,ach,Office supplies purchase - Global Supplies,195.08,INV-00298
+299,2024-01-08T21:00:00,Quick Transports,logistics,418.41,USD,DE,wire,Freight shipment fee - Quick Transports,29.29,INV-00299
+300,2024-05-21T12:00:00,ComplySoft,cloud,500.0,USD,IN,wire,Compute instance charges - ComplySoft,35.0,INV-00300
+301,2024-05-27T10:00:00,ComplySoft,cloud,221.38,USD,IN,card,Compute instance charges - ComplySoft,15.5,INV-00301
+302,2024-07-28T15:00:00,Quick Transports,logistics,419.96,USD,IN,card,Freight shipment fee - Quick Transports,29.4,INV-00302
+303,2024-04-03T15:00:00,ComplySoft,cloud,335.3,USD,US,wire,Compute instance charges - ComplySoft,23.47,INV-00303
+304,2024-01-29T16:00:00,Quick Transports,logistics,196.96,USD,NL,wire,Freight shipment fee - Quick Transports,13.79,INV-00304
+305,2024-08-23T10:00:00,City Diner,meals,194.87,USD,DE,cash,Team lunch - City Diner,0.0,INV-00305
+306,2024-06-30T11:00:00,ComplySoft,cloud,400.0,USD,SG,card,Compute instance charges - ComplySoft,28.0,INV-00306
+307,2024-08-17T08:00:00,Cloud Infra,cloud,400.0,USD,GB,card,Compute instance charges - Cloud Infra,28.0,INV-00307
+308,2024-01-21T11:00:00,ComplySoft,cloud,479.47,USD,IN,ach,Compute instance charges - ComplySoft,33.56,INV-00308
+309,2024-02-12T20:00:00,ComplySoft,cloud,402.37,USD,US,wire,Compute instance charges - ComplySoft,28.17,INV-00309
+310,2024-08-16T13:00:00,Blue Travel,travel,238.5,USD,DE,cash,Airfare + baggage - Blue Travel,16.69,INV-00310
+311,2024-02-14T09:00:00,City Diner,meals,203.84,USD,GB,wire,Team lunch - City Diner,0.0,INV-00311
+312,2024-08-17T21:00:00,Blue Travel,travel,817.88,USD,US,cash,Airfare + baggage - Blue Travel,57.25,INV-00312
+313,2024-01-08T13:00:00,TaxPrep LLC,professional_service,142.47,USD,IN,ach,Consulting retainer - TaxPrep LLC,9.97,INV-00313
+314,2024-07-14T14:00:00,City Diner,meals,300.0,USD,IN,card,Team lunch - City Diner,0.0,INV-00314
+315,2024-03-20T13:00:00,Skyline Legal,legal,538.75,USD,CA,ach,Legal review fee - Skyline Legal,37.71,INV-00315
+316,2024-04-10T09:00:00,Cloud Infra,cloud,515.76,USD,CA,cash,Compute instance charges - Cloud Infra,36.1,INV-00316
+317,2024-01-17T14:00:00,Quick Transports,logistics,328.43,USD,US,cash,Freight shipment fee - Quick Transports,22.99,INV-00317
+318,2024-05-04T21:00:00,TaxPrep LLC,professional_service,542.74,USD,CA,card,Consulting retainer - TaxPrep LLC,37.99,INV-00318
+319,2024-04-26T10:00:00,Cloud Infra,cloud,230.09,USD,GB,wire,Compute instance charges - Cloud Infra,16.11,INV-00319
+320,2024-04-29T16:00:00,Quick Transports,logistics,285.64,USD,US,cash,Freight shipment fee - Quick Transports,19.99,INV-00320
+321,2024-02-18T19:00:00,Global Supplies,office,112.64,USD,SG,cash,Office supplies purchase - Global Supplies,7.88,INV-00321
+322,2024-05-08T18:00:00,Bright Office,office,74.3,USD,SG,wire,Office supplies purchase - Bright Office,5.2,INV-00322
+323,2024-03-19T10:00:00,Zen Marketing,marketing,576.26,USD,SG,cash,Campaign spend - Zen Marketing,40.34,INV-00323
+324,2024-04-08T18:00:00,Blue Travel,travel,165.82,USD,DE,card,Airfare + baggage - Blue Travel,11.61,INV-00324
+325,2024-01-06T19:00:00,Global Supplies,office,358.8,USD,SG,wire,Office supplies purchase - Global Supplies,25.12,INV-00325
+326,2024-08-22T08:00:00,Bright Office,office,202.9,USD,NL,ach,Office supplies purchase - Bright Office,14.2,INV-00326
+327,2024-03-11T10:00:00,Global Supplies,office,300.0,USD,NL,card,Office supplies purchase - Global Supplies,21.0,INV-00327
+328,2024-04-16T08:00:00,Global Supplies,office,406.66,USD,IN,ach,Office supplies purchase - Global Supplies,28.47,INV-00328
+329,2024-02-20T10:00:00,City Diner,meals,446.69,USD,NL,cash,Team lunch - City Diner,0.0,INV-00329
+330,2024-06-17T21:00:00,Cloud Infra,cloud,454.78,USD,GB,ach,Compute instance charges - Cloud Infra,31.83,INV-00330
+331,2024-05-20T14:00:00,Blue Travel,travel,193.93,USD,IN,card,Airfare + baggage - Blue Travel,13.58,INV-00331
+332,2024-01-23T15:00:00,Bright Office,office,294.34,USD,CA,cash,Office supplies purchase - Bright Office,20.6,INV-00332
+333,2024-09-22T09:00:00,ComplySoft,cloud,455.63,USD,CA,ach,Compute instance charges - ComplySoft,31.89,INV-00333
+334,2024-04-21T20:00:00,Zen Marketing,marketing,402.12,USD,SG,ach,Campaign spend - Zen Marketing,28.15,INV-00334
+335,2024-07-04T20:00:00,Zen Marketing,marketing,183.06,USD,DE,ach,Campaign spend - Zen Marketing,12.81,INV-00335
+336,2024-04-05T19:00:00,Bright Office,office,379.47,USD,CA,ach,Office supplies purchase - Bright Office,26.56,INV-00336
+337,2024-01-10T15:00:00,Global Supplies,office,199.16,USD,GB,card,Office supplies purchase - Global Supplies,13.94,INV-00337
+338,2024-01-26T08:00:00,TaxPrep LLC,professional_service,441.06,USD,GB,cash,Consulting retainer - TaxPrep LLC,30.87,INV-00338
+339,2024-03-12T21:00:00,Acme Software,software,145.48,USD,CA,wire,SaaS subscription - Acme Software,10.18,INV-00339
+340,2024-01-31T14:00:00,Acme Software,software,15.3,USD,GB,cash,SaaS subscription - Acme Software,1.07,INV-00340
+341,2024-08-02T17:00:00,Bright Office,office,98.06,USD,CA,wire,Office supplies purchase - Bright Office,6.86,INV-00341
+342,2024-06-08T19:00:00,Skyline Legal,legal,377.2,USD,US,card,Legal review fee - Skyline Legal,26.4,INV-00342
+343,2024-01-30T16:00:00,Zen Marketing,marketing,483.39,USD,US,card,Campaign spend - Zen Marketing,33.84,INV-00343
+344,2024-03-04T16:00:00,Blue Travel,travel,296.44,USD,NL,ach,Airfare + baggage - Blue Travel,20.75,INV-00344
+345,2024-07-10T15:00:00,Quick Transports,logistics,500.0,USD,IN,card,Freight shipment fee - Quick Transports,35.0,INV-00345
+346,2024-08-22T19:00:00,Acme Software,software,419.56,USD,CA,ach,SaaS subscription - Acme Software,29.37,INV-00346
+347,2024-02-21T12:00:00,Cloud Infra,cloud,100.0,USD,GB,cash,Compute instance charges - Cloud Infra,7.0,INV-00347
+348,2024-04-20T19:00:00,ComplySoft,cloud,367.9,USD,GB,ach,Compute instance charges - ComplySoft,25.75,INV-00348
+349,2024-03-13T12:00:00,ComplySoft,cloud,241.26,USD,NL,card,Compute instance charges - ComplySoft,16.89,INV-00349
+350,2024-03-10T09:00:00,Skyline Legal,legal,67.6,USD,IN,card,Legal review fee - Skyline Legal,4.73,INV-00350
+351,2024-09-02T12:00:00,Zen Marketing,marketing,296.96,USD,SG,ach,Campaign spend - Zen Marketing,20.79,INV-00351
+352,2024-04-10T16:00:00,Cloud Infra,cloud,465.46,USD,US,ach,Compute instance charges - Cloud Infra,32.58,INV-00352
+353,2024-05-31T11:00:00,Cloud Infra,cloud,221.54,USD,DE,card,Compute instance charges - Cloud Infra,15.51,INV-00353
+354,2024-01-09T19:00:00,Bright Office,office,662.58,USD,NL,ach,Office supplies purchase - Bright Office,46.38,INV-00354
+355,2024-01-22T12:00:00,Zen Marketing,marketing,209.33,USD,NL,wire,Campaign spend - Zen Marketing,14.65,INV-00355
+356,2024-03-10T16:00:00,Skyline Legal,legal,379.03,USD,CA,ach,Legal review fee - Skyline Legal,26.53,INV-00356
+357,2024-05-25T17:00:00,Blue Travel,travel,244.81,USD,DE,card,Airfare + baggage - Blue Travel,17.14,INV-00357
+358,2024-01-27T09:00:00,Zen Marketing,marketing,33.3,USD,US,card,Campaign spend - Zen Marketing,2.33,INV-00358
+359,2024-09-03T14:00:00,Zen Marketing,marketing,254.27,USD,SG,ach,Campaign spend - Zen Marketing,17.8,INV-00359
+360,2024-06-26T14:00:00,Zen Marketing,marketing,108.19,USD,IN,wire,Campaign spend - Zen Marketing,7.57,INV-00360
+361,2024-07-03T15:00:00,Cloud Infra,cloud,435.75,USD,SG,ach,Compute instance charges - Cloud Infra,30.5,INV-00361
+362,2024-07-27T18:00:00,Cloud Infra,cloud,646.89,USD,DE,card,Compute instance charges - Cloud Infra,45.28,INV-00362
+363,2024-07-17T09:00:00,TaxPrep LLC,professional_service,36.83,USD,US,ach,Consulting retainer - TaxPrep LLC,2.58,INV-00363
+364,2024-01-26T20:00:00,Global Supplies,office,168.19,USD,NL,card,Office supplies purchase - Global Supplies,11.77,INV-00364
+365,2024-04-25T21:00:00,Zen Marketing,marketing,580.11,USD,US,wire,Campaign spend - Zen Marketing,40.61,INV-00365
+366,2024-04-10T11:00:00,Zen Marketing,marketing,409.04,USD,US,wire,Campaign spend - Zen Marketing,28.63,INV-00366
+367,2024-08-04T14:00:00,Bright Office,office,565.7,USD,GB,cash,Office supplies purchase - Bright Office,39.6,INV-00367
+368,2024-01-27T21:00:00,City Diner,meals,259.2,USD,IN,cash,Team lunch - City Diner,0.0,INV-00368
+369,2024-01-25T11:00:00,Blue Travel,travel,112.9,USD,SG,wire,Airfare + baggage - Blue Travel,7.9,INV-00369
+370,2024-06-30T16:00:00,Sunshine Hotels,lodging,365.64,USD,CA,card,Hotel stay - Sunshine Hotels,0.0,INV-00370
+371,2024-08-03T15:00:00,Cloud Infra,cloud,184.35,USD,SG,card,Compute instance charges - Cloud Infra,12.9,INV-00371
+372,2024-06-04T11:00:00,Skyline Legal,legal,292.89,USD,DE,card,Legal review fee - Skyline Legal,20.5,INV-00372
+373,2024-09-11T16:00:00,Sunshine Hotels,lodging,500.0,USD,GB,card,Hotel stay - Sunshine Hotels,0.0,INV-00373
+374,2024-07-18T21:00:00,ComplySoft,cloud,300.0,USD,CA,wire,Compute instance charges - ComplySoft,21.0,INV-00374
+375,2024-03-07T21:00:00,ComplySoft,cloud,40.54,USD,IN,card,Compute instance charges - ComplySoft,2.84,INV-00375
+376,2024-04-13T18:00:00,Acme Software,software,134.38,USD,SG,cash,SaaS subscription - Acme Software,9.41,INV-00376
+377,2024-01-17T17:00:00,Sunshine Hotels,lodging,619.01,USD,SG,cash,Hotel stay - Sunshine Hotels,0.0,INV-00377
+378,2024-07-24T08:00:00,Bright Office,office,672.22,USD,DE,cash,Office supplies purchase - Bright Office,47.06,INV-00378
+379,2024-05-30T17:00:00,Bright Office,office,413.06,USD,NL,cash,Office supplies purchase - Bright Office,28.91,INV-00379
+380,2024-07-22T17:00:00,City Diner,meals,425.95,USD,US,card,Team lunch - City Diner,0.0,INV-00380
+381,2024-05-12T08:00:00,Sunshine Hotels,lodging,469.57,USD,IN,wire,Hotel stay - Sunshine Hotels,0.0,INV-00381
+382,2024-02-07T09:00:00,ComplySoft,cloud,315.59,USD,NL,wire,Compute instance charges - ComplySoft,22.09,INV-00382
+383,2024-01-23T11:00:00,Quick Transports,logistics,598.49,USD,SG,card,Freight shipment fee - Quick Transports,41.89,INV-00383
+384,2024-07-21T15:00:00,Zen Marketing,marketing,6100.0,USD,DE,ach,Campaign spend - Zen Marketing,427.0,INV-00384
+385,2024-09-02T09:00:00,Bright Office,office,374.93,USD,CA,card,Office supplies purchase - Bright Office,26.24,INV-00385
+386,2024-01-02T11:00:00,Sunshine Hotels,lodging,575.6,USD,DE,wire,Hotel stay - Sunshine Hotels,0.0,INV-00386
+387,2024-02-28T08:00:00,ComplySoft,cloud,100.0,USD,GB,cash,Compute instance charges - ComplySoft,7.0,INV-00387
+388,2024-02-04T11:00:00,TaxPrep LLC,professional_service,169.42,USD,US,card,Consulting retainer - TaxPrep LLC,11.86,INV-00388
+389,2024-05-20T21:00:00,City Diner,meals,125.82,USD,US,wire,Team lunch - City Diner,0.0,INV-00389
+390,2024-09-24T17:00:00,TaxPrep LLC,professional_service,157.93,USD,GB,ach,Consulting retainer - TaxPrep LLC,11.06,INV-00390
+391,2024-04-25T18:00:00,TaxPrep LLC,professional_service,456.17,USD,CA,wire,Consulting retainer - TaxPrep LLC,31.93,INV-00391
+392,2024-03-26T09:00:00,Skyline Legal,legal,329.5,USD,IN,wire,Legal review fee - Skyline Legal,23.06,INV-00392
+393,2024-07-15T14:00:00,TaxPrep LLC,professional_service,125.19,USD,CA,ach,Consulting retainer - TaxPrep LLC,8.76,INV-00393
+394,2024-03-01T17:00:00,City Diner,meals,100.0,USD,GB,card,Team lunch - City Diner,0.0,INV-00394
+395,2024-09-02T11:00:00,Global Supplies,office,227.04,USD,IN,ach,Office supplies purchase - Global Supplies,15.89,INV-00395
+396,2024-03-15T19:00:00,Acme Software,software,750.69,USD,DE,wire,SaaS subscription - Acme Software,52.55,INV-00396
+397,2024-03-09T21:00:00,Zen Marketing,marketing,167.74,USD,GB,card,Campaign spend - Zen Marketing,11.74,INV-00397
+398,2024-07-12T21:00:00,TaxPrep LLC,professional_service,169.71,USD,NL,ach,Consulting retainer - TaxPrep LLC,11.88,INV-00398
+399,2024-07-16T13:00:00,Cloud Infra,cloud,87.88,USD,NL,cash,Compute instance charges - Cloud Infra,6.15,INV-00399
+400,2024-05-04T12:00:00,TaxPrep LLC,professional_service,214.91,USD,GB,wire,Consulting retainer - TaxPrep LLC,15.04,INV-00400

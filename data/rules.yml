@@ -1,0 +1,8 @@
+
+weights: {rules: 0.45, anomaly: 0.25, classifier: 0.30}
+thresholds: {alert: 0.65, review: 0.50}
+rules:
+  - {id: ROUND_AMOUNT_LARGE, description: "Suspicious large round amount", condition: "amount % 100 == 0 and amount >= 500", score: 0.35}
+  - {id: MEALS_VAT_CLAIM, description: "VAT claimed on non-deductible meals", condition: "category == 'meals' and vat_claimed > 0", score: 0.40}
+  - {id: CASH_LODGING, description: "Cash payment for lodging", condition: "method == 'cash' and category == 'lodging'", score: 0.30}
+  - {id: WATCHLIST_VENDOR, description: "Vendor in watchlist", condition: "vendor in watchlist", score: 0.50}
